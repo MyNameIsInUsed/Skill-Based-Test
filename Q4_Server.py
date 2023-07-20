@@ -11,7 +11,7 @@ quotes = [
     "The true color of one person is not determined by skin, but by the behavior in it.",
     "The only way to do great work is to love what you do.",
     "Turn your wounds into wisdom.",
-	"Life is a succession of lessons which must be lived to be understood.",
+    "Life is a succession of lessons which must be lived to be understood.",
 	
 ]
 
